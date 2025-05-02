@@ -2,7 +2,7 @@
 
 A responsive and customizable multi-page website template themed around creativity and digital services, titled **Planet Earth**. The project showcases web design, graphic design, and content creation services with a modern layout, Bootstrap components, and rich styling.
 
-🔗 **Live Demo:** [View on GitHub Pages](https://dhruvesh1811.github.io/planet-earth/)
+🔗 **Live Demo:** [View on GitHub Pages](https://dhruvesh1811.github.io/earth/)
 
 ## ✨ Features
 
